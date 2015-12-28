@@ -1,0 +1,15 @@
+#summary Presentación del proyecto
+
+= Introducción =
+
+Facil CMS es un proyecto nuevo, enfocado en la simplicidad y velocidad principalmente.
+Este proyecto se desarrolla sobre PH 5.3 y MySQL.
+
+= Detalles =
+
+Motores de base de datos Soportados:
+  * Soporta MySQL
+  * Soporta PostgreSQL (a futuro)
+
+Versión de PHP Soportada:
+  * Soporta PHP 5.3
